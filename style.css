@@ -1,0 +1,235 @@
+
+
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 16px;
+    
+  }
+  .links {
+      list-style: none;
+      display: flex;
+      gap: 16px;
+      margin-bottom: 42px;
+      font-size: 18px;
+      color: #e5e7eb;
+      font-family: 'Roboto', sans-serif;
+  }
+  .content {
+      display: flex;
+      flex-direction: column;
+      
+      
+      
+  }
+  .image {
+      display: flex;
+      align-items: center;
+  }
+  .main-cont {
+    display: flex;
+    flex-wrap: wrap;
+    
+    width: 350px;
+    height: 150px;
+  }
+  .lorem-cont {
+    display: flex;
+    flex-wrap: wrap;
+    
+    width: 450px;
+    height: 150px;
+
+  }
+  .conimage {
+      display: flex;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+      color: #F9FAF8;
+      
+  }
+  .logo {
+      margin-bottom: 20px;
+      
+
+  }
+  .logo-sec {
+      font-weight: normal;
+  }
+  .section-one {
+      background-color: #1F2937;
+      padding-bottom: 40px;
+      
+
+  }
+  .lorem {
+      overflow-wrap: break-word;
+      color: #e5e7eb;
+      font-size: 18px;
+      font-family: 'Roboto', sans-serif;
+  }
+  .main-text {
+    font-size: 48px;
+    font-family: 'Roboto', sans-serif; 
+    word-break: break-all;
+    font-weight: bold;
+    
+      
+  }
+ .login {
+     background-color: #3882f6;
+     font-family: 'Roboto', sans-serif;
+     color: #F9FAF8;
+     padding: 20px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     width: fit-content;
+     height:fit-content;
+     border-radius: 25px;
+ }
+ .logo-sec {
+    color: #F9FAF8;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+ }
+
+ .info {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+  }
+  .info-one, .info-two, .info-three, .info-four {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+  }
+  .text {
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  
+  .title {
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 64px;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+  }
+  .box-one, .box-two, .box-three, .box-four {
+    width: 100px;
+    height: 100px;
+    border: 3px solid #3882f6;
+    border-radius: 15px;
+  }
+
+.section-two {
+    padding: 100px;
+}
+.quote-align {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.quote {
+    width: 750px;
+    height: 150px;
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    
+    
+}
+.customer {
+    display: flex;
+    
+    justify-content: center;
+    
+
+}
+.speaker {
+    
+    width: 750px;
+    display: flex;
+    justify-content: end;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    padding-right: 150px;
+    margin-top: 50px;
+}
+.section-three {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    padding-top: 150px;
+    background-color: #e5e7eb;
+}
+.section-four {
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.align-four {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #3882f6;
+    padding: 40px 100px 40px 100px;
+    border-radius: 5px;
+    width: 850px;
+    
+}
+.action {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    color: #F9FAF8;
+    
+    margin-bottom: -10px;
+}
+.action-text {
+    color: #e5e7eb;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    
+}
+.button-two {
+    border: 3px solid #F9FAF8;
+    border-radius: 5px;
+    height: fit-content;
+    width: fit-content;
+    padding: 0px 50px 0px 50px;
+    display: flex;
+    
+}
+.action-button {
+    color:#F9FAF8;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-color: #1F2937;
+    color: #f9faf8;
+    
+}
+
+
+
+  
+
